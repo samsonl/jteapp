@@ -1,3 +1,5 @@
    libraries{
       libsimple
+      libA
+      libB
    }
