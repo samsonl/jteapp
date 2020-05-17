@@ -5,6 +5,7 @@ application_environments {
       C {
          C1 = "jteapp C"
       }
+      D = "jteapp D"
    }
    
 }
