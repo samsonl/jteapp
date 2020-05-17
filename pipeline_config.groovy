@@ -8,5 +8,4 @@ application_environments {
 libraries{
       libsimple
       libA
-      libB
    }
