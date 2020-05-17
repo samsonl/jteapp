@@ -11,6 +11,8 @@ application_environments {
 }
 
 libraries{
-      libsimple
+   libsimple {
+      A = "jteapp A from lib"
+   }
       libA
    }
