@@ -1,4 +1,4 @@
 
 
 echo "OK ${env.VARENV}"
-echo "OK ${environment.global.VARENV}"
+echo "OK ${global.VARENV}"
