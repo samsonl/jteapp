@@ -1,3 +1,3 @@
 
 
-echo "OK %{env.VARENV}"
+echo "OK ${env.VARENV}"
