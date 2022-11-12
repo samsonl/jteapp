@@ -1,5 +1,6 @@
 application_environments {
    global {
+      VARENV = "SET THE ENV VAR UP OK"
       A = "jteapp A"
       B = "jteapp B"
       C {
